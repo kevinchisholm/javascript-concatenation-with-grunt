@@ -28,10 +28,16 @@ git clone https://github.com/kevinchisholm/javascript-concatenation-with-grunt.g
 npm install
 ````
 
-### Running the examples
+### Running the example code
 
-* 2 - Run this command:
+* Run this command:
 
 ````
 grunt
 ````
+
+### What to expect after running the example code
+
+* You should see a **dist** folder in the root.
+* In that folder you'll find the file: **allScripts.js**
+* The file: **allScripts.js** contains **all** of the code found in the source files.
