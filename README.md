@@ -16,10 +16,10 @@ What you need to run this app:
 
 ### Setup
 
-* 1 - lone this repo: 
+* 1 - Clone this repo: 
 
 ````
-git clone https://github.com/kevinchisholm/javascript-concatenation-with-grunt
+git clone https://github.com/kevinchisholm/javascript-concatenation-with-grunt.git
 ````
 
 * 2 - Run this command:
