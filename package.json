@@ -1,7 +1,13 @@
 {
   "name": "gruntconcat",
   "description": "JavaScript Concatenation with Grunt",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kevin Chisholm",
+    "url": "https://kevinchisholm.com"
+  },
+  "repository": "kevinchisholm/javascript-concatenation-with-grunt",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "1.0.1",
     "grunt-contrib-concat": "1.0.1"
