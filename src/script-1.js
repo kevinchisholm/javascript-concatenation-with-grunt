@@ -1,0 +1,3 @@
+function funcOne () {
+    return true;
+}

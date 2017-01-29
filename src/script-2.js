@@ -1,0 +1,3 @@
+function funcTwo () {
+    return true;
+}
