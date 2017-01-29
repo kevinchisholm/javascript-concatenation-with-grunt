@@ -1,10 +1,6 @@
-# javascript-concatenation-with-grunt
-Javascript Concatenation with Gunt.js
-
+# Javascript Concatenation with Gunt.js
 
 [![Grunt Logo](https://sub1.kevinchisholm.com/blog/images/grunt-logo.png)](http://blog.kevinchisholm.com/javascript/node-js/javascript-concatenation-and-minification-with-the-grunt-js-task-runer/)
-
-# TITLE
 
 ## Code Examples for my Blog Post: [JavaScript Concatenation and Minification with the Grunt.js Task Runer](https://blog.kevinchisholm.com/javascript/node-js/javascript-concatenation-and-minification-with-the-grunt-js-task-runer/)
 
